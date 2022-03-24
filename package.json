@@ -1,0 +1,14 @@
+{
+  "name": "p2_26039298",
+  "version": "1.0.0",
+  "description": "primer proyecto ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
